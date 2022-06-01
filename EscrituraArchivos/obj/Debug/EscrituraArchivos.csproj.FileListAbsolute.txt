@@ -1,0 +1,7 @@
+H:\CÓDIGOS NUCLEARES\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe.config
+H:\CÓDIGOS NUCLEARES\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe
+H:\CÓDIGOS NUCLEARES\EscrituraArchivos\bin\Debug\EscrituraArchivos.pdb
+H:\CÓDIGOS NUCLEARES\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.AssemblyReference.cache
+H:\CÓDIGOS NUCLEARES\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.CoreCompileInputs.cache
+H:\CÓDIGOS NUCLEARES\EscrituraArchivos\obj\Debug\EscrituraArchivos.exe
+H:\CÓDIGOS NUCLEARES\EscrituraArchivos\obj\Debug\EscrituraArchivos.pdb
