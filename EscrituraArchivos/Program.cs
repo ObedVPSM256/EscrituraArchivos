@@ -11,16 +11,18 @@ namespace EscrituraArchivos
     {
         static void Main(string[] args)
         {
-            StreamWriter sw = new StreamWriter("chikistrikis.txt", true);
+            StreamWriter sw = new StreamWriter("QueDeseas.txt", true);
             //si el archivo no existe, será creado
             //si el archivo existe, escribirá en él
 
-            Console.Write("Escriba un nombre: ");
-            string nombre = Console.ReadLine();
+            Console.Write("Escriba su mayor deseo: ");
+            string deseo = Console.ReadLine();
+            Console.Write("Número de deseo: ");
+            int numero = Convert.ToInt32(Console.ReadLine());
 
-            Nombre nom = new Nombre(nombre);
+            Deseo Deseo = new Deseo(numero, deseo);
 
-            sw.WriteLine(nom.nombre);
+            sw.WriteLine(Deseo.numero + " " + Deseo.deseo);
 
             //cerrar archivo
             sw.Close();
